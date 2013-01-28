@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context=".MainActivity" >
+
+    <View
+        android:id="@+id/animation_target"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="#FF33AAAA" />
+
+    <Button
+        android:id="@+id/button_animate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/animate" />
+
+</LinearLayout>
