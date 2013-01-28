@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Styles</string>
+    <string name="body_text">This is not illustrative of a good design by any means, but this design does show some of the common elements of a design, which you have to break apart into views in Android.  Also consider styling and what parts of the design are similar or different.</string>
+    <string name="flower_power">Flower Power</string>
+    <string name="flowers">Flowers</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="intro_text">Even desaturated, flowers have a certain vibrance that few other objects in nature have.</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
