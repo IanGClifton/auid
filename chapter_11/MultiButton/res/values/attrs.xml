@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MultiButton">
+        <attr name="buttonBackground" format="reference"/>
+        <attr name="buttonBackgroundEnd" format="reference"/>
+        <attr name="textArray" format="reference" />
+        <attr name="android:textColor"/>
+    </declare-styleable>
+
+</resources>

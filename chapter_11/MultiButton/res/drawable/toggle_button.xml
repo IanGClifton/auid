@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/toggle_button_on_disabled" android:state_checked="true" android:state_enabled="false" android:state_window_focused="false"/>
+    <item android:drawable="@drawable/toggle_button_on_pressed" android:state_checked="true" android:state_pressed="true"/>
+    <item android:drawable="@drawable/toggle_button_on_focused" android:state_checked="true" android:state_enabled="true" android:state_focused="true"/>
+    <item android:drawable="@drawable/toggle_button_on" android:state_checked="true" android:state_enabled="true"/>
+    <item android:drawable="@drawable/toggle_button_on_disabled_focused" android:state_checked="true" android:state_focused="true"/>
+    <item android:drawable="@drawable/toggle_button_on_disabled" android:state_checked="true"/>
+    <item android:drawable="@drawable/toggle_button_off_disabled" android:state_enabled="false" android:state_window_focused="false"/>
+    <item android:drawable="@drawable/toggle_button_off_pressed" android:state_pressed="true"/>
+    <item android:drawable="@drawable/toggle_button_off_focused" android:state_enabled="true" android:state_focused="true"/>
+    <item android:drawable="@drawable/toggle_button_off" android:state_enabled="true"/>
+    <item android:drawable="@drawable/toggle_button_off_disabled_focused" android:state_focused="true"/>
+    <item android:drawable="@drawable/toggle_button_off"/>
+    
+</selector>

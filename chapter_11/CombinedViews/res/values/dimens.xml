@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="default_spacing">10dp</dimen>
+    <dimen name="half_default_spacing">5dp</dimen>
+    <dimen name="thumbnail">56dp</dimen>
+
+</resources>
