@@ -336,6 +336,7 @@ public class HorizontalIconView extends View {
 			requestLayout();
 		}
 		mDrawables = new ArrayList<Drawable>(drawables);
+		mIconPositions.clear();
 	}
 
 	@Override
