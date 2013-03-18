@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Real Estate</string>
+    <string name="title_section3">Recent Sales</string>
+    <string name="title_section2">Starred</string>
+    <string name="title_section1">Property List</string>
+    <string name="menu_settings">Settings</string>
+    <string name="bed">Bed</string>
+    <string name="bath">Bath</string>
+    <string name="sq_ft">Sq. Ft.</string>
+
+    <string name="activity_name_dropdown">Real Estate Dropdown</string>
+    <string name="activity_name_tabs">Real Estate Tabs</string>
+</resources>
