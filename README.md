@@ -10,7 +10,7 @@ Book Table of Contents
 
 * **Part 1: The Basics of Android User Interface**
 * Chapter 1: Android UI Overview
-* Chapter 2: Understanding Views – The UI Building Blocks
+* Chapter 2: Understanding Views -- The UI Building Blocks
 * Chapter 3: Creating Full Layouts with ViewGroups and Fragments
 * Chapter 4: Adding App Graphics and Resources
 * **Part 2: The Full Design and Development Process**
@@ -30,4 +30,4 @@ Book Table of Contents
 * Appendix C: Common Task Reference
 
 
-[Amazon]: http://www.amazon.com/Android-User-Interface-Design-Beautifully/dp/0321886739
+[Amazon]: http://bit.ly/auidbook 
