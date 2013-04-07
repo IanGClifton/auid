@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppendixC</string>
+    <string name="dismiss">dismiss</string>
+    <string name="dismiss_keyboard_directions">Type the word dismiss to have the keyboard hide itself.</string>
+    <string name="loading">Loading</string>
+    <string name="loading_complete">Loading complete</string>
+    <string name="refresh">Refresh</string>
+    <string name="refresh_directions">Press the refresh button</string>
+    <string name="title_section_detail">Section Detail</string>
+    
+    <!-- Various Demos -->
+	<string name="configuration_xlarge">Looks like you have a very large tablet.</string>
+	<string name="configuration_large">Ah, a large tablet, excellent choice!</string>
+	<string name="configuration_normal">Your device size seems pretty normal.</string>
+	<string name="configuration_small">Yikes, you have a small device.</string>
+	<string name="configuration_unknown">Your device is very confusing.</string>
+	<string name="density_xxhdpi">Mmm, you have a <em>lot</em> of pixels looking at you.</string>
+	<string name="density_xhdpi">XHDPI displays are quite nice.</string>
+	<string name="density_hdpi">HDPI displays are slowly becoming extinct.</string>
+	<string name="density_mdpi">Hopefully this is just your testing device because MDPI just does not cut it anymore.</string>
+	<string name="density_ldpi">Oh no, you are stuck with an LDPI display.</string>
+	<string name="density_tv">Are you really testing this on a TV?</string>
+	<string name="density_unknown">I can\'t tell how dense your display is.  Either the pixels are teeny tiny or gigantic.</string>
+	<string name="main_thread_true">On the main/UI thread!</string>
+	<string name="main_thread_false">On a background thread!</string>
+	<string name="has_connection">The device has a connection on resume</string>
+	<string name="has_no_connection">The device does not have a connection on resume</string>
+		
+    <!-- Sections -->
+    <string name="loading_indicator">Loading indicator</string>
+    <string name="loading_indicator_description">A determinate Activity loading indicator</string>
+    <string name="loading_indicator_refresh">Loading indicator refresh</string>
+    <string name="loading_indicator_refresh_description">A refresh button in the action bar that can indicate loading</string>
+    <string name="dismiss_keyboard">Dismiss keyboard</string>
+    <string name="dismiss_keyboard_description">An EditText that can dismiss the keyboard</string>
+    <string name="various">Various demos</string>
+    <string name="various_description">Demos of keeping the screen on, device physical size, device density, checking network connection, and checking if on the UI thread</string>
+    <string name="custom_view">Custom view</string>
+    <string name="custom_view_description">A view that demonstrates using custom attributes</string>
+</resources>
